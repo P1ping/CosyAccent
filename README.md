@@ -4,6 +4,8 @@ Official implementation of the paper:
 "CosyAccent: Duration-Controllable Accent Normalization Using Source-Synthesis Training Data"
 (Accepted to ICASSP 2026)
 
+Paper: https://arxiv.org/abs/2602.19166v1
+
 ## Dataset
 
 The training data (L2-LibriTTSR) is hosted on Hugging Face:
