@@ -55,6 +55,13 @@ python infer_wav.py \
 
 `infer_wav.py` auto-downloads required checkpoints from Hugging Face if local checkpoint paths are not provided.
 
+## Acknowledgements
+
+This repository builds on several excellent open-source projects:
+
+- **CosyVoice**: the HiFT checkpoint is leveraged from CosyVoice2.
+- **ESPnet**: the Conformer/Transformer encoder components are adapted from ESPnet (via CosyVoice and direct modifications in this repo).
+- **OpenAI Whisper**: Whisper encoder frontend is used for speech feature extraction.
 
 ## Citation
 
