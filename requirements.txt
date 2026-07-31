@@ -1,0 +1,11 @@
+torch
+torchaudio
+numpy
+scipy
+soundfile
+librosa
+hyperpyyaml
+huggingface_hub
+openai-whisper
+resemblyzer
+einops
